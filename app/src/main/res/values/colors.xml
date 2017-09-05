@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="silver">#C0C0C0</color>
+
+    <color name="colorPrimary">#3b5998</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="orange">#ff8a80</color>
+    <color name="bnafseg">#3e7cf7</color>
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+    <color name="labny">#b3e5fc</color>
+    <color name="syam">#01132a</color>
+    <color name="labny2">#3598dc</color>
+    <color name="red">#e61a5f</color>
+</resources>

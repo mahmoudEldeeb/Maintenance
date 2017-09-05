@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "136005573596",
+    "firebase_url": "https://maintance-1036f.firebaseio.com",
+    "project_id": "maintance-1036f",
+    "storage_bucket": "maintance-1036f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136005573596:android:adf739d5c8044de7",
+        "android_client_info": {
+          "package_name": "com.m_eldeeb.maintenance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136005573596-keloaqn6326lbvcgut0hokqbmp2cjaji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIEAJKLuenWSGZ7YuwqCq-Oz5rSicgzwA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

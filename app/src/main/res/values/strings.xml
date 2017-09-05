@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">Maintenance</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="lang">عربى</string>
+    <string name="action_settings">Settings</string>
+    <string name="BAS_URL">http://kalaks.com/api/</string>
+    <string name="email">email</string>
+    <string name="login_error">email or password wrong</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="register">register</string>
+    <string name="user_name">user name</string>
+
+    <string name="children_name">login</string>
+    <string name="fill_all_record">fill_all_record</string>
+    <string name="name_of_part">name of part :</string>
+    <string name="model">Model : </string>
+    <string name="name_of_machine">Name of Machine : </string>
+    <string name="workhour2">Work Hour :</string>
+    <string name="life_span">Life Span</string>
+    <string name="change_span">Change life span</string>
+    <string name="done">done</string>
+    <string name="number_of_hour_work">number of hour work</string>
+    <string name="change_number_of_hour_work"> change number of hour work</string>
+
+    <string name="chang_or_fix">Changed or fixed</string>
+    <string name="no_thing_need_fix">No thing need fix or change</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="workhour">enter work hour :</string>
+    <string name="something_wrong">no network or something wrong try later</string>
+    <string name="enterHourWork">enter number of hour </string>
+    <string name="my_machine">My Machines</string>
+    <string name="need_fix">Need Repair</string>
+    <string name="log_out">Log Out</string>
+    <string name="nav_hour_work">Add Hour Work</string>
+    <string name="add_item">Add Item</string>
+    <string name="can_not_now">you can not update hour work now</string>
+    <string name="update_remember_time">Remember time</string>
+    <string name="update">Update</string>
+    <string name="error_email">enter right email</string>
+    <string name="error_password">password must contain 8 digits number ,capital liters and small liters </string>
+    <string-array name="time_item">
+        <item>number of day to notify</item>
+        <item>3 month</item>
+        <item>2 month</item>
+        <item>month</item>
+        <item>week</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+    </string-array>
+    <string name="add">Add machine</string>
+   <string name="end">Finish register</string>
+    <string name="enter_model_year">Enter year of making the model</string>
+    <string name="type">Type</string>
+    <string name="model1">model</string>
+    <string name="new_or">New or Used</string>
+    <string name="new1">New</string>
+    <string name="used">Used</string>
+    <string name="number_of_hour">Number of Hour</string>
+<string name="choose">Choose the machine and add hour of work</string>
+    <string name="fill">fill all data</string>
+    <string name="main">main</string>
+    <string name="no_machine">yo have no machine, add some </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="phone">phone</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>

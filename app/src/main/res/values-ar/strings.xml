@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">الصيانة</string>
+
+    <string name="error_email">ادخل اميل صحيح</string>
+    <string name="error_password">كلمة السر لابد من ان تتكون من 8 حروف وتحتوى على ارقام وحروف كبيرة وصغيرة </string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="lang">English</string>
+    <string name="number_of_hour">عدد الساعات </string>
+    <string name="type">نوع المعدة</string>
+    <string name="new1">جديد</string>
+    <string name="used">مستعمل</string>
+    <string name="new_or">جديد او مستعمل</string>
+    <string name="model1">موديل</string>
+    <string name="add">اضافة معدة</string>
+
+    <string name="enter_model_year">ادخل سنة صنع الموديل</string>
+    <string name="end">انهاء التسجيل</string>
+    <string name="action_settings">Settings</string>
+    <string name="BAS_URL">http://kalaks.com/api/</string>
+    <string name="email">اميل</string>
+    <string name="login_error">الاميل او كلمة السر خطا</string>
+    <string name="password">كلمة السر</string>
+    <string name="login">دخول</string>
+    <string name="register">تسجيل</string>
+    <string name="user_name">اسم المستخدم</string>
+
+    <string name="children_name">دخول</string>
+    <string name="fill_all_record">املئ كل الخانات</string>
+    <string name="name_of_part">اسم قطعة الغيار</string>
+    <string name="model">الموديل </string>
+    <string name="name_of_machine">اسم المعدة </string>
+    <string name="workhour2">ساعات العمل</string>
+    <string name="life_span">العمر الافتراضى</string>
+    <string name="change_span">تغير العمر الافتراضى</string>
+    <string name="done">تم</string>
+    <string name="number_of_hour_work">عدد ساعات العمل</string>
+
+    <string name="change_number_of_hour_work">تغير عدد ساعات العمل</string>
+    <string name="chang_or_fix">تغير او صيانة</string>
+    <string name="no_thing_need_fix">لا شى يحتاج تغير او صيانة</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="workhour">ادخل ساعات العمل</string>
+    <string name="something_wrong">لا يوجد انترنت او هناك شئ خاطى حاول لاحقا</string>
+    <string name="enterHourWork">اضف عدد الساعات </string>
+    <string name="my_machine">معداتى</string>
+    <string name="need_fix">بحاجة للصيانة</string>
+    <string name="log_out">تسجيل خروج</string>
+    <string name="nav_hour_work">اضافة ساعات العمل</string>
+    <string name="add_item">اضافة معدة</string>
+    <string name="can_not_now">لا يمكنك اضافة ساعات العمل الان</string>
+    <string name="update_remember_time">وقت التنبيه</string>
+    <string name="update">تعديل</string>
+    <string-array name="time_item">
+        <item>اختر عدد الايام للتنبيه</item>
+        <item>3 شهور</item>
+        <item>شهران</item>
+        <item>شهر</item>
+        <item>اسبوع</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+    </string-array>
+    <string name="main">الرئيسية</string>
+<string name="fill">املئ كل الخانات</string>
+    <string name="no_machine">لا يوجد لديك معدات قم باضافة معداتك</string>
+<string name="phone">تلفون</string>
+    <string name="choose">اختر المعدة واضف ساعات العمل</string>
+</resources>
