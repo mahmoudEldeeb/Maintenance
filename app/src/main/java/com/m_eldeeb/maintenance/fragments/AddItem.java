@@ -175,7 +175,16 @@ if(checkedId==R.id.new1){
                     Toast.makeText(getActivity(),getString(R.string.fill_all_record),Toast.LENGTH_LONG).show();
                 }
                 else{
-                sendMachine();
+                   try{ int year= Integer.parseInt(date1.getText().toString());
+                    if(year>1950){
+                     sendMachine();
+                    }
+                    else{
+                        Toast.makeText(getActivity(),getString(R.string.fill_all_record),Toast.LENGTH_LONG).show();
+                    }}catch (Exception e){
+                       Toast.makeText(getActivity(),getString(R.string.fill_all_record),Toast.LENGTH_LONG).show();
+
+                   }
                 }
             }
         });
